@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **DevOps Engineer** with strong hands-on experience in designing, deploying, and maintaining **production-grade infrastructure**.
 
@@ -19,35 +19,35 @@ I work on automating cloud environments, building CI/CD pipelines, and running c
 
 ## 🛠️ Tech Stack
 
-### 🖥️ Operating Systems
+###  Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-### ☁️ Cloud & Infrastructure as Code
+###  Cloud & Infrastructure as Code
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 
-### 🐳 Containers & Orchestration
+###  Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 
-### 🔄 CI/CD & Automation
+###  CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 
-### 📊 Monitoring & Observability
+###  Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-CC0000?logo=prometheus&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
-### 💻 Backend & Programming
+###  Backend & Programming
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
