@@ -9,7 +9,7 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 I am a **DevOps Engineer** with strong hands-on experience in designing, deploying, and maintaining **production-grade infrastructure**.
 
