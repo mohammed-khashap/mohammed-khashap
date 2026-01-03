@@ -1,88 +1,84 @@
-# 👋 Hi, I'm Mohammed Khashap
-
-🚀 **DevOps Engineer** | Cloud & Automation Enthusiast  
-
-I am a DevOps Engineer with strong hands-on experience in Linux systems, cloud infrastructure, containerization, and CI/CD automation.  
-I focus on building **secure, scalable, and production-ready infrastructures** while bridging the gap between development and operations.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohammed+Khashap;DevOps+Engineer;Cloud+%7C+Automation+%7C+Kubernetes" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👨‍💻 About Me
 
-### 🖥️ Operating Systems & Linux
-- Linux (Ubuntu, CentOS, RHEL)
-- Bash Scripting
-- System Administration & Troubleshooting
+🚀 **DevOps Engineer** with strong experience in cloud infrastructure, automation, and production environments.  
+I specialize in building **secure, scalable, and reliable systems** using modern DevOps tools and best practices.
 
-### ☁️ Cloud & Infrastructure
-- **AWS** (EC2, IAM, VPC, S3, RDS, EKS, CloudWatch)
-- **Terraform** (Infrastructure as Code)
-- Infrastructure Design & Cost Optimization
+💡 Passionate about:
+- Infrastructure as Code
+- Kubernetes & Cloud Native
+- CI/CD Automation
+- Monitoring & Observability
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+### ☁️ Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 
 ### 🐳 Containers & Orchestration
-- Docker & Docker Compose
-- Kubernetes (K8s)
-- Helm (Charts & Releases)
-- EKS (AWS Managed Kubernetes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 
 ### 🔄 CI/CD & Automation
-- GitHub Actions
-- CI/CD Pipelines (Build, Test, Deploy)
-- Git & GitHub
-- Secrets Management & Security Best Practices
-
-### ⚙️ Configuration Management
-- Ansible
-- Automated Provisioning & Configuration
-
-### 📊 Monitoring & Observability
-- Prometheus
-- Grafana
-- Alertmanager
-- Loki
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 
 ### 💻 Backend & Programming
-- **.NET / ASP.NET Core Web API**
-- Python
-- RESTful APIs
-- Microservices Architecture
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ### 🗄️ Databases
-- SQL Server
-- MySQL
-- PostgreSQL
-- Database Migrations & Backups
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
-## 🧠 What I Do
+## ⚙️ What I Do
 
-- Design and deploy cloud infrastructure using **Terraform**
-- Build containerized applications with **Docker & Kubernetes**
-- Create CI/CD pipelines using **GitHub Actions**
-- Implement monitoring, logging, and alerting
-- Secure applications and infrastructure (IAM, Secrets, TLS)
-- Support production environments and improve reliability
-
----
-
-## 📌 DevOps Philosophy
-
-> “Automate everything, monitor what matters, and secure by design.”
-
-I believe in:
-- Infrastructure as Code
-- Immutable Infrastructure
-- Observability-first mindset
-- Security & reliability in production
+✔ Design cloud infrastructure using **Terraform**  
+✔ Build & deploy containerized apps with **Docker & Kubernetes**  
+✔ Create CI/CD pipelines with **GitHub Actions**  
+✔ Implement monitoring with **Prometheus & Grafana**  
+✔ Secure systems using **IAM, Secrets, and TLS**  
+✔ Maintain high availability production environments  
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-- GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: *(Add your LinkedIn link here)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME" height="160"/>
+</p>
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *Feel free to explore my repositories and star anything you find useful!*
