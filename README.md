@@ -67,11 +67,11 @@ I work on automating cloud environments, building CI/CD pipelines, and running c
 
 ## 📊 GitHub Statistics
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your real username
+> ⚠️ Replace `mohammed-khashap` with your real username
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-khashap&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mohammed-khashap&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ I work on automating cloud environments, building CI/CD pipelines, and running c
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mohammed-khashap">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
