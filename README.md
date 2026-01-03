@@ -1,19 +1,19 @@
+<h1 align="center">Hi 👋, I'm Mohammed Khashap</h1>
+<h3 align="center">DevOps Engineer | Cloud | Automation | Kubernetes</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohammed+Khashap;DevOps+Engineer;Cloud+%7C+Automation+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Expert-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 **DevOps Engineer** with strong experience in cloud infrastructure, automation, and production environments.  
-I specialize in building **secure, scalable, and reliable systems** using modern DevOps tools and best practices.
+I am a **DevOps Engineer** with strong hands-on experience in designing, deploying, and maintaining **production-grade infrastructure**.
 
-💡 Passionate about:
-- Infrastructure as Code
-- Kubernetes & Cloud Native
-- CI/CD Automation
-- Monitoring & Observability
+I work on automating cloud environments, building CI/CD pipelines, and running containerized workloads using Kubernetes while ensuring **security, scalability, and reliability**.
 
 ---
 
@@ -23,8 +23,8 @@ I specialize in building **secure, scalable, and reliable systems** using modern
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-### ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+### ☁️ Cloud & Infrastructure as Code
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 
 ### 🐳 Containers & Orchestration
@@ -33,8 +33,14 @@ I specialize in building **secure, scalable, and reliable systems** using modern
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 
 ### 🔄 CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-CC0000?logo=prometheus&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 ### 💻 Backend & Programming
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -50,20 +56,22 @@ I specialize in building **secure, scalable, and reliable systems** using modern
 
 ## ⚙️ What I Do
 
-✔ Design cloud infrastructure using **Terraform**  
-✔ Build & deploy containerized apps with **Docker & Kubernetes**  
-✔ Create CI/CD pipelines with **GitHub Actions**  
-✔ Implement monitoring with **Prometheus & Grafana**  
-✔ Secure systems using **IAM, Secrets, and TLS**  
-✔ Maintain high availability production environments  
+✔ Build cloud infrastructure using **Terraform**  
+✔ Deploy and manage Kubernetes clusters (**EKS**)  
+✔ Create CI/CD pipelines using **GitHub Actions**  
+✔ Implement monitoring and alerting systems  
+✔ Secure infrastructure with IAM, secrets, and TLS  
+✔ Maintain high-availability production environments  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
+> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your real username
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -81,4 +89,4 @@ I specialize in building **secure, scalable, and reliable systems** using modern
 
 ---
 
-⭐ *Feel free to explore my repositories and star anything you find useful!*
+⭐ *Feel free to explore my repositories and star anything useful!*
